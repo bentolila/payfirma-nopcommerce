@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Credit Card
+SystemName: Payments.Payfirma
+Version: 1.0
+SupportedVersions: 3.60
+Author: Amram Bentolila
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.Payfirma.dll
